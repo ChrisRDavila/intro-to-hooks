@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# intro-to-hooks
+
+example repo for basics of hooks with counter and timer basic React aPP
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
